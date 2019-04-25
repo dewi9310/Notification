@@ -15,8 +15,12 @@
       },
       "oauth_client": [
         {
-          "client_id": "809401129794-m0s3ga43a08bgjtnvlj5rlinieak3h4p.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "809401129794-n95errjv3tif04l0t6ceem7m2iorvaqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "notification.com.example.dewioktaviani.notification",
+            "certificate_hash": "e82bed512596faf2a591af8db8e54e61f723a1bb"
+          }
         }
       ],
       "api_key": [
@@ -25,15 +29,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809401129794-m0s3ga43a08bgjtnvlj5rlinieak3h4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
